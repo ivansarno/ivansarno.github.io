@@ -52,14 +52,12 @@
 # #   - vendor/gems/
 # #   - vendor/ruby/
 
-domain: example.com
-url: https://example.com
+#domain: example.com
+#url: https://example.com
 
 title: Ivan Sarno
 email: ivansarno@outlook.com
 author: Ivan Sarno
-
-twitter_username: IvanSarno
 
 theme: wind-theme
 
