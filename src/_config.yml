@@ -66,6 +66,7 @@ rrss:
   linkedin: https://www.linkedin.com/in/ivan-sarno/
   github: https://github.com/ivansarno
   email: mailto:ivansarno@outlook.com
+  orcid: https://orcid.org/0009-0003-6447-3587
 
 plugins:
   - jekyll-seo-tag
