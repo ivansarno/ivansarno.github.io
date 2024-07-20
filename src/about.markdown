@@ -22,8 +22,9 @@ From this experience, I learned to work remotely with a team of people from diff
 
 **University of Pisa**
 
-From September 2023, I work as a researcher at the University of Pisa. I am continuing my thesis work by developing a complete hardware accelerator for the post-quantum cryptographic algorithm Kyber.
-I currently have one paper in review.
+From September 2023, I work as a researcher at the [Electronic Systems Laboratory](https://vlsi.iet.unipi.it/home) of the University of Pisa. I am continuing my thesis work by developing a complete hardware accelerator for the post-quantum cryptographic algorithm Kyber.
+I published on IEEE access [CRYPHTOR](https://ieeexplore.ieee.org/document/10439161), an hardware acccelerator for Kyber and Dilithium for RISC-V platform.
+Currently I'm working on a compact accelerator for Kyber.
 
 Academic Education
 ------------------
