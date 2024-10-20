@@ -22,7 +22,7 @@ From this experience, I learned to work remotely with a team of people from diff
 
 **University of Pisa**
 
-From September 2023 to September 2024, I worked as a researcher at the [Electronic Systems Laboratory](https://vlsi.iet.unipi.it/home) of the University of Pisa. I developed IPs for True Random Number Generation and Post-Quantum Cryptography acceleration for the RISC-V platform in the context of the European Processor Initiative ([EPI SG2](https://www.european-processor-initiative.eu/project/epi)).
+From September 2023 to September 2024, I worked as a graduated researcher at the [Electronic Systems Laboratory](https://vlsi.iet.unipi.it/home) of the University of Pisa. I developed IPs for True Random Number Generation and Post-Quantum Cryptography acceleration for the RISC-V platform in the context of the European Processor Initiative ([EPI SG2](https://www.european-processor-initiative.eu/project/epi)).
 I published on IEEE Access [CRYPHTOR](https://ieeexplore.ieee.org/document/10439161), a hardware accelerator for Kyber and Dilithium for the RISC-V platform.
 
 **CEA Grenoble**
