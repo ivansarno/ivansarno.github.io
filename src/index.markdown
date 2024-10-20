@@ -5,5 +5,5 @@ layout: home
 
 
 
-I'm a researcher at the University of Pisa, specialized in the HW/SW implementation of cryptographic algorithms and secure coding. 
+I'm a PhD student at the CEA of Grenoble working on Hardware Security, Post-Quantum Cryptography acceleration and secure RISC-V ISA extensions for cryptographic operations.
 ---------------------------------------------------------------------------------------------------------------------

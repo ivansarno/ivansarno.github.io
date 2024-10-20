@@ -22,9 +22,12 @@ From this experience, I learned to work remotely with a team of people from diff
 
 **University of Pisa**
 
-From September 2023, I work as a researcher at the [Electronic Systems Laboratory](https://vlsi.iet.unipi.it/home) of the University of Pisa. I am continuing my thesis work by developing a complete hardware accelerator for the post-quantum cryptographic algorithm Kyber.
-I published on IEEE access [CRYPHTOR](https://ieeexplore.ieee.org/document/10439161), an hardware acccelerator for Kyber and Dilithium for RISC-V platform.
-Currently I'm working on a compact accelerator for Kyber.
+From September 2023 to September 2024, I worked as a researcher at the [Electronic Systems Laboratory](https://vlsi.iet.unipi.it/home) of the University of Pisa. I developed IPs for True Random Number Generation and Post-Quantum Cryptography acceleration for the RISC-V platform in the context of the European Processor Initiative ([EPI SG2](https://www.european-processor-initiative.eu/project/epi)).
+I published on IEEE Access [CRYPHTOR](https://ieeexplore.ieee.org/document/10439161), a hardware accelerator for Kyber and Dilithium for the RISC-V platform.
+
+**CEA Grenoble**
+
+From September 2024, I work as a PhD student at the CEA List/Leti of Grenoble on the topic of Hardware Security Post-Quantum Cryptography acceleration and secure RISC-V ISA extensions for cryptographic operations.
 
 Academic Education
 ------------------
@@ -58,6 +61,11 @@ During the master's course, I attended language courses provided by the universi
 
 My master thesis consists of porting the reference code of the recently standardized Kyber and Di lithium post-quantum encryption algorithms to Risc-V, and the design and implementation on FPGA of an accelerator for polynomial operations. The accelerator was developed using the SystemVerilog language and the Vivado suite, targeting resource-limited devices.
 
+**PhD at the University of Grenoble Alpes**
+
+In September 2024, I started my PhD at the University of Grenoble Alpes, working at the CEA List/Leti of Grenoble and TIMA laboratories. The topic of my research is "Secure Hardware/Software Implementation of Post-
+Quantum Cryptography on RISC-V Platforms".
+
 Self Learning
 -------------
 
@@ -89,7 +97,7 @@ Verilog/SystemVerilog
 Software Design, Secure Coding, Library/Framework Design, Software Optimization
 
 **Cryptography:** \
-Applied Cryptography, Cryptographic Algorithms and Protocols HW/SW implementation, Blockchain
+Applied Cryptography, Cryptographic Algorithms and Protocols HW/SW Implementation, Blockchain
 
 **Platforms:** \
 macOS, Linux, Windows
