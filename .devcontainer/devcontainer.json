@@ -15,4 +15,5 @@
     },
     "mounts": [],
     "remoteUser": "root"
+    "postCreateCommand": "git config --global user.name 'Ivan Sarno' && git config --global user.email 'ivansarno@outlook.com'"
   }
