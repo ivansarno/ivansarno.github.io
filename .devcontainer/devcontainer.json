@@ -1,0 +1,18 @@
+{
+    "name": "IVANSARNO.GITHUB.IO",
+    "build": {
+    "dockerfile": "Dockerfile"
+    },
+    "features": {},
+    "postCreateCommand": "echo 'Ready!'",
+    "customizations": {
+    "vscode": {
+        "extensions": [
+            "ltex-plus.vscode-ltex-plus",
+            "DavidAnson.vscode-markdownlint"
+        ]
+    }
+    },
+    "mounts": [],
+    "remoteUser": "root"
+  }

@@ -59,7 +59,7 @@ The master program covered various aspects of security, such as software, hardwa
 
 During the master's course, I attended language courses provided by the university’s linguistic center. I studied English from B2.1 to C1.1 level and French from A1 to A2 level.
 
-My master thesis consists of porting the reference code of the recently standardized Kyber and Di lithium post-quantum encryption algorithms to Risc-V, and the design and implementation on FPGA of an accelerator for polynomial operations. The accelerator was developed using the SystemVerilog language and the Vivado suite, targeting resource-limited devices.
+My master thesis consists of porting the reference code of the recently standardized Kyber and Di lithium post-quantum encryption algorithms to RISC-V, and the design and implementation on FPGA of an accelerator for polynomial operations. The accelerator was developed using the SystemVerilog language and the Vivado suite, targeting resource-limited devices.
 
 **PhD at the University of Grenoble Alpes**
 
