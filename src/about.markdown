@@ -23,11 +23,11 @@ From this experience, I learned to work remotely with a team of people from diff
 **University of Pisa**
 
 From September 2023 to September 2024, I worked as a graduated researcher at the [Electronic Systems Laboratory](https://vlsi.iet.unipi.it/home) of the University of Pisa. I developed IPs for True Random Number Generation and Post-Quantum Cryptography acceleration for the RISC-V platform in the context of the European Processor Initiative ([EPI SG2](https://www.european-processor-initiative.eu/project/epi)).
-I published on IEEE Access [CRYPHTOR](https://ieeexplore.ieee.org/document/10439161), a hardware accelerator for Kyber and Dilithium for the RISC-V platform.
+I published on IEEE Access [CRYPHTOR](https://ieeexplore.ieee.org/document/10439161), a hardware accelerator for Kyber and Dilithium for the RISC-V platform. I also contributed to a paper published on IEEE Access presenting an [All-Digital TRNG](https://ieeexplore.ieee.org/document/11271252) for RISC-V processors.
 
 **CEA Grenoble**
 
-From September 2024, I work as a PhD student at the CEA List of Grenoble on the topic of Hardware Security Post-Quantum Cryptography acceleration and secure RISC-V ISA extensions for cryptographic operations.
+From September 2024, I work as a PhD student at the CEA List of Grenoble on the topic of Hardware Security Post-Quantum Cryptography acceleration and secure RISC-V ISA extensions for cryptographic operations. I published on IEEE Internet of Things Journal [KEM22](https://ieeexplore.ieee.org/document/11261742), and hardware accelerator for ML-KEM on ASIC.
 
 Academic Education
 ------------------
@@ -57,14 +57,13 @@ During the COVID-19 pandemic, I decided to go back to university to acquire a br
 
 The master program covered various aspects of security, such as software, hardware, networking, organizational and legal, penetration testing, and supply chain. All courses and exams were in English. Almost every course included laboratory activities and practical projects, frequently in groups, in which I improved my teamwork skills. Here, I started to learn about hardware design and embedded systems.
 
-During the master's course, I attended language courses provided by the university’s linguistic center. I studied English from B2.1 to C1.1 level and French from A1 to A2 level.
+During the master's course, I attended language courses provided by the university’s linguistic center. I studied English from B2.1 to C1 level and French from A1 to A2 level.
 
 My master thesis consists of porting the reference code of the recently standardized Kyber and Di lithium post-quantum encryption algorithms to RISC-V, and the design and implementation on FPGA of an accelerator for polynomial operations. The accelerator was developed using the SystemVerilog language and the Vivado suite, targeting resource-limited devices.
 
 **PhD at the University of Grenoble Alpes**
 
-In September 2024, I started my PhD at the University of Grenoble Alpes, working at the CEA List of Grenoble and TIMA laboratories. The topic of my research is "Secure Hardware/Software Implementation of Post-
-Quantum Cryptography on RISC-V Platforms".
+In September 2024, I started my PhD at the University of Grenoble Alpes, working at the CEA List of Grenoble and TIMA laboratories. The topic of my research is "Secure Hardware/Software Implementation of Post-Quantum Cryptography on RISC-V Platforms".
 
 Self Learning
 -------------
@@ -75,21 +74,22 @@ My training in Cryptography includes the study of the mathematical background, t
 
 On the Software Development side, I remain updated with the latest versions of the languages that I use, and the most modern techniques, patterns, and tools.
 
-
-Other areas of interest
+<!--
+**Other areas of interest**
 
 I’m passionate about technology and computer science; in addition to my field of expertise, I am curious about developments in other areas of Computer Science such as theoretical computer science, AI and non-classic computational models.
+-->
 
 Skills
 ------
 
 **Languages:** \
-Italian (mother tongue), English (B2), French (A2)
+Italian (mother tongue), English (C1), French (B1)
 
 **Programming Languages:** \
 Advanced: C/C++, Java, Python \
 Intermediate: C#, F#, Rust, Ocaml \
-Basic: Go, Typescript \
+Basic: Go, Typescript, RISC-V Assembly \
 Hardware Description Languages: \
 Verilog/SystemVerilog
 
@@ -99,11 +99,9 @@ Software Design, Secure Coding, Library/Framework Design, Software Optimization
 **Cryptography:** \
 Applied Cryptography, Cryptographic Algorithms and Protocols HW/SW Implementation, Blockchain
 
-**Platforms:** \
-macOS, Linux, Windows
-
+<!--
 **Tools:** \
-Xcode, Jetbrains, Vivado, Questasim, Visual Studio Code
+Xcode, Jetbrains, Vivado, Questasim, Design Compiler
 
 Culture
 --------
@@ -111,4 +109,4 @@ I believe that a broad perspective on the world is an important quality today. F
 
 I am a tea lover. Tea is a drink that is widespread all over the world and deeply rooted in the cultures of the countries where it is drunk, cultures that I love to explore.
 
-I have been passionate about cinema and music since high school age. I studied electric bass at a private music school and double bass at the Domenico Cimarosa Conservatory during my high school years, and I performed with various bands in clubs and local festivals.
+I have been passionate about cinema and music since high school age. I studied electric bass at a private music school and double bass at the Domenico Cimarosa Conservatory during my high school years, and I performed with various bands in clubs and local festivals. -->
