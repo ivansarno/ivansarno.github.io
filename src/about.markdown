@@ -27,7 +27,7 @@ I published on IEEE Access [CRYPHTOR](https://ieeexplore.ieee.org/document/10439
 
 **CEA Grenoble**
 
-From September 2024, I work as a PhD student at the CEA List/Leti of Grenoble on the topic of Hardware Security Post-Quantum Cryptography acceleration and secure RISC-V ISA extensions for cryptographic operations.
+From September 2024, I work as a PhD student at the CEA List of Grenoble on the topic of Hardware Security Post-Quantum Cryptography acceleration and secure RISC-V ISA extensions for cryptographic operations.
 
 Academic Education
 ------------------
@@ -63,7 +63,7 @@ My master thesis consists of porting the reference code of the recently standard
 
 **PhD at the University of Grenoble Alpes**
 
-In September 2024, I started my PhD at the University of Grenoble Alpes, working at the CEA List/Leti of Grenoble and TIMA laboratories. The topic of my research is "Secure Hardware/Software Implementation of Post-
+In September 2024, I started my PhD at the University of Grenoble Alpes, working at the CEA List of Grenoble and TIMA laboratories. The topic of my research is "Secure Hardware/Software Implementation of Post-
 Quantum Cryptography on RISC-V Platforms".
 
 Self Learning
