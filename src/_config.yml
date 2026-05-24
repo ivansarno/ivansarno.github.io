@@ -1,86 +1,58 @@
-# # Welcome to Jekyll!
-# #
-# # This config file is meant for settings that affect your whole blog, values
-# # which you are expected to set up once and rarely edit after that. If you find
-# # yourself editing this file very often, consider using Jekyll's data files
-# # feature for the data you need to update frequently.
-# #
-# # For technical reasons, this file is *NOT* reloaded automatically when you use
-# # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-# #
-# # If you need help with YAML syntax, here are some quick references for you:
-# # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# # https://learnxinyminutes.com/docs/yaml/
-# #
-# # Site settings
-# # These are used to personalize your new site. If you look in the HTML files,
-# # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# # You can create any custom variable you would like, and they will be accessible
-# # in the templates via {{ site.myvariable }}.
-
-# title: Ivan Sarno
-# author: Ivan Sarno
-# email: ivansarno@outlook.com
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: IvanSarno
-# github_username:  IvanSarno
-
-# # Build settings
-# theme: wind-theme
-# plugins:
-#   - jekyll-feed
-# language: "en_US"
-
-# # Exclude from processing.
-# # The following items will not be processed, by default.
-# # Any item listed under the `exclude:` key here will be automatically added to
-# # the internal "default list".
-# #
-# # Excluded items can be processed by explicitly listing the directories or
-# # their entries' file path in the `include:` list.
-# #
-# # exclude:
-# #   - .sass-cache/
-# #   - .jekyll-cache/
-# #   - gemfiles/
-# #   - Gemfile
-# #   - Gemfile.lock
-# #   - node_modules/
-# #   - vendor/bundle/
-# #   - vendor/cache/
-# #   - vendor/gems/
-# #   - vendor/ruby/
-
-domain: ivansarno.github.io
+title: Ivan Sarno
+description: PhD student at CEA Grenoble
+baseurl: ""
 url: https://ivansarno.github.io
 
-title: Ivan Sarno
-email: ivansarno@outlook.com
-author: Ivan Sarno
+theme: cvless
 
-theme: wind-theme
+# site settings
+taglong: PhD student at CEA Grenoble, working on Post-Quantum Cryptography for RISC-V
+tagshort: PhD student at CEA Grenoble
 
-lang: en
-rrss:
+# author settings
+author:
+  name: Ivan Sarno
+  email: ivansarno@outlook.com
+photo: assets/files/photo.jpg
+# joblines:
+#   - University of Jekyll
+#   - Department of Themes
+#   - 123 Main St, Anytown, USA
+address: false #Foobar Hall 1.23
+phone: false #+1 234 567 890
+
+# profile links
+profile:
+  facebook: false #https://www.facebook.com/username
+  x: false #https://x.com/username
+  mastodon: false #https://mastodon.social/@username
+  bluesky: false #https://bsky.app/profile/username.bsky.social
+  instagram: false #https://www.instagram.com/username
   linkedin: https://www.linkedin.com/in/ivan-sarno/
+  #scholar: https://scholar.google.com/citations?user=z7mfs78AAAAJ
+  xing: false #https://www.xing.com/profile/username
+  stackoverflow: false #https://stackoverflow.com/users/0000000/username
+  medium: false #https://medium.com/@username
   github: https://github.com/ivansarno
-  email: mailto:ivansarno@outlook.com
   orcid: https://orcid.org/0009-0003-6447-3587
+  cv: false
+
+# build settings
+permalink: pretty
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
 
 plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
   - jekyll-seo-tag
+  - jekyll-sitemap
 
-# disqus:
-#   shortname: example-com
-#
-# rrss:
-  # discord: hoola
-  # facebook: hola
-  # twitter: Hola
-  # instagram: Hola
-  # linkedin: Hola
-  # pinterest: hola
-  # whatsapp: 123
-  # telegram: 123
-  # email: email
+sass:
+  sourcemap: never
+
+
