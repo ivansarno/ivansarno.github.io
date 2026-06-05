@@ -5,10 +5,7 @@ title: Home
 
 # About
 
-Areas of Interest
------------------
-
-Applied Cryptography, Cybersecurity, and Secure HW/SW Systems Development.
+I'm Ivan Sarno, a Ph.D. candidate at the University of Grenoble Alpes, conducting research at CEA List and TIMA Laboratory in Grenoble, France. My research focuses on the secure hardware/software implementation of post-quantum cryptography on RISC-V platforms, combining interests in cryptography, computer architecture, hardware design, and embedded security.
 
 Experience
 ----------
@@ -30,6 +27,9 @@ Education
 
 **PhD in Computer Science — University of Grenoble Alpes** *(ongoing)*
 
+Thesis: *Secure Hardware/Software Implementation of Post-Quantum Cryptography on
+RISC-V Platforms*
+
 **M.Sc. in Cybersecurity — University of Pisa**
 
 Coursework spanning software, hardware, networking, penetration testing, and supply chain security. Thesis: FPGA accelerator for polynomial operations targeting Kyber and Dilithium (SystemVerilog / Vivado), with a RISC-V port of the reference implementations.
@@ -44,9 +44,10 @@ Skills
 **Languages:** Italian (native), English (C1), French (B1)
 
 **Programming:**
-C/C++, Java, Python (advanced) · C#, F#, Rust, OCaml (intermediate) · Go, TypeScript, RISC-V Assembly (basic)
+C/C++, Java, Python · C#, F#, Rust, OCaml · Go, TypeScript, RISC-V Assembly
 
-**Hardware:**
-Verilog/SystemVerilog · RISC-V · FPGA implementation  · Vivado · ASIC design flow  · Questasim  · Design Compiler
+**Hardware design:** Verilog/SystemVerilog · FPGA implementation · ASIC design flow
 
 **Crypto/Security:** Applied Cryptography · Cryptographic HW/SW Implementation · Post-Quantum Cryptography · Secure Coding · Blockchain
+
+**Tools:** Vivado · Questasim · Design Compiler · JetBrains IDEs · Xcode
